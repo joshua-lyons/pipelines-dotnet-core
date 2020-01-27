@@ -40,4 +40,4 @@ steps:
     displayName: "Upload Artifacts"
     inputs:
       pathtoPublish: "$(Build.ArtifactStagingDirectory)"
-      artifactName: "hanselminutes"
+      artifactName: "example-pipeline"
